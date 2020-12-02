@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">KVshow</string>
+    <string name="setting_title">Setting</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="push">推送通知</string>
+    <string name="no_wifi">允许非wifi环境下使用</string>
+    <string name="about">关于</string>
 </resources>
